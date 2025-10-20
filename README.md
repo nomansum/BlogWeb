@@ -32,7 +32,7 @@ Blog API is a Django-based RESTful backend application built with Django REST Fr
 ## Setup and Running Instructions
 1. **Clone the Repository** (or copy the code into a directory named `blog_api`):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nomansum/BlogWeb.git
    cd BlogWeb
    ```
    If you copied the code manually, ensure the directory structure matches the one provided.
