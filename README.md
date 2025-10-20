@@ -1,4 +1,4 @@
-# Blog API
+# BlogWeb
 
 ## Overview
 Blog API is a Django-based RESTful backend application built with Django REST Framework (DRF). It provides a platform for users to register, authenticate, create and manage blog posts, add comments, and categorize content. The application is fully dockerized, using PostgreSQL as the database, and includes JWT-based authentication.
@@ -30,7 +30,7 @@ Blog API is a Django-based RESTful backend application built with Django REST Fr
 - A tool like Postman or curl to test API endpoints.
 
 ## Setup and Running Instructions
-1. **Clone the Repository** (or copy the code into a directory named `blog_api`):
+1. **Clone the Repository** (or copy the code into a directory named `BlogWeb`):
    ```bash
    git clone https://github.com/nomansum/BlogWeb.git
    cd BlogWeb
